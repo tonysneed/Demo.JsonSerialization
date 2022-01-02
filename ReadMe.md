@@ -1,4 +1,4 @@
-# Demo.JsonSerialization
+# Demo: Deserialize Generic Interfaces with System.Text.Json
 
 Demo of deserializing generic interfaces with System.Text.Json.
 
